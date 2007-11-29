@@ -17,8 +17,6 @@ Url: http://www.andrewchatham.com/pyogg/
 %description
 pyogg - a Python wrapper for the Ogg libraries
 
-Ogg/Vorbis is available at http://www.xiph.org
-
 There's not a whole lot you can do with this module by itself. You'll
 probably also want the ogg.vorbis module, which can be found wherever
 you got this.
