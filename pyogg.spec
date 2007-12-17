@@ -9,7 +9,6 @@ Release: %{release}
 Source0: http://www.andrewchatham.com/pyogg/download/%{name}-%{version}.tar.bz2
 License: LGPL
 Group: Development/Python
-BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: libogg-devel
 BuildRequires: libpython-devel
 Url: http://www.andrewchatham.com/pyogg/
