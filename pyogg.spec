@@ -1,6 +1,6 @@
 %define name pyogg
 %define version 1.3
-%define release %mkrel 8
+%define release %mkrel 10
 
 Summary: A wrapper for the Ogg libraries
 Name: %{name}
