@@ -11,7 +11,7 @@ License: LGPL
 Group: Development/Python
 BuildRequires: pkgconfig(ogg)
 BuildRequires: pkgconfig(python)
-Url: http://www.andrewchatham.com/pyogg/
+Url: https://www.andrewchatham.com/pyogg/
 
 %description
 pyogg is a Python wrapper for the Ogg libraries.
